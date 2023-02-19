@@ -1,0 +1,196 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.headings{
+    
+    font-size: 5rem;
+}
+
+.navbar{
+    padding: 20px;
+    background-color: #606576;
+    opacity: 0.8;
+    padding: none;
+    margin: none;
+    border: none;
+    border-radius: 0px;
+    
+    
+}
+#login{
+    padding: 10%;
+    width: 200px;
+    color:#001337;
+   
+}
+}
+#login a{
+    color:#001337;
+}
+
+#left-home{
+    
+    background-color: #001337;
+    color: #ffffff;
+    height: 1000px;
+}
+#left-home h1{
+    font-weight: bold;
+}
+.text-transform{
+     text-transform: uppercase;
+    
+}
+
+.strong{
+    
+    color:#4CA6E8;
+    font-size: 5rem;
+    
+}
+#right-home{
+    
+    padding: 0px;
+    background-image: url(../images/right-homepage.jpg);
+    height: 1000px;
+}
+
+
+.position{
+    
+    position: relative;
+    top: 400px;
+}
+
+.blue-button{
+    background-color: #4CA6E8;
+    color: #ffffff;
+    width: 200px;
+    height: 60px;
+    border: none;
+  
+    font-size: 2em;
+}
+#icons{
+    
+    color: #ffffff;
+    font-size: 2rem;
+    
+}
+
+.collections{
+    
+     background-color: #deeefd;
+    padding: 10%;
+}
+
+.italic-fonts{
+    
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2em;
+}
+.collection-left h3{
+    font-style: italic;
+
+}
+.about-us{
+    padding: 10%;
+}
+.gradient{
+   background: linear-gradient( #DEEEFD, #ffffff);
+   
+}
+.border{
+    border: solid 2px #4CA6E8;
+}
+.about-us .middle{
+    background-color: #001337;
+    color:white;
+    padding: 5%;
+    height: 700px;
+}
+
+.about-us .img1{
+    margin: 10% 0 0 30%;
+}
+.about-us .img2{
+    margin: 0 0 0 30%;
+}
+.about-us .right{
+    margin-top: -5%;;
+    padding: 0 0 0 3%; 
+}
+
+.aside{
+   
+    transform: rotate(270deg);
+    
+color: #001337;
+    font-weight: bold;
+}
+
+.position-top-left{
+    position: absolute;
+    top: 13%;
+    left: 15%;
+    text-align: right;
+}
+.position-bottom-left{
+    position: absolute;
+    top: 89%;
+    left: 15%;
+      text-align: left;
+    
+}
+.position-bottom-right{
+    position: absolute;
+    top: 67%;
+    right: 15%;
+    text-align: left;
+    
+}
+
+.stores{
+/*    padding: 10%;*/
+}
+.left-stores{
+    background-image: url(../images/leftstore.jpg);
+    height: 980px;
+}
+.background-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.right-store-one{
+    background-image: url(../images/rightstore1.jpg);
+    height: 50%;
+
+
+    
+    
+}.right-store-two{
+    background-image: url(../images/rightstore2.jpg);
+     margin: 0 1%;
+      height: 50%;
+   
+    
+   
+}.right-store-three{
+    background-image: url(../images/rightstore3.jpg);
+      height: 50%;
+       width: 300px;
+}
+
+.right-stores{
+    color: white;
+    padding: 10% 5% ;
+    background-color:#001337;
+    height: 980px;
+}
+
+
+
